@@ -63,10 +63,16 @@ float: left;
 .prima{
   margin-top: 120px;
   background-image:url(img/ocean.jpg);
+  padding:50px;
 }
 
 .rima h1,p{
   color:white;
+}
+
+.rima p{
+  font-size: 23px;
+  opacity: .8;
 }
 
 .rima h1{
@@ -150,6 +156,14 @@ float: left;
   margin-bottom: 80px;
 }
 
+.croci{
+  margin-top: 40px;
+}
+
+
+.mondo{
+  margin-top: 50px;
+}
 /* quarta */
 
 .quarta{
@@ -262,7 +276,7 @@ color:white;
 /* footer */
 
 footer{
-  background-color: black;
+  background-color: #010e28;
 }
 
 
@@ -274,11 +288,13 @@ footer ul{
 
 footer a{
   color:white;
+  opacity: .8;
 }
 
 
 footer li{
   margin: 10px;
+
 }
 
 .ultimiss{
@@ -286,11 +302,16 @@ footer li{
   padding: 80px;
 }
 
+.partesotto{
+  font-size: 20px;
+  color: white;
+}
+
 
 /* nona */
 .nona{
   padding: 30px;
-  background-color: black;
+  background-color: #010e28;
 }
 
 .nona img{
@@ -303,4 +324,9 @@ footer li{
   float: left;
   margin-top: 80px;
   margin-left: 8px;
+}
+
+footer i{
+  float: right;
+  width: 100px;
 }
