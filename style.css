@@ -1,0 +1,190 @@
+/* regole generali */
+
+.container::after{
+ content:"";
+ display: table;
+ clear: both;
+}
+
+[class*="col-"]{
+  float: left;
+}
+/* navbar */
+.docs{
+  float: right;
+  margin-top: 10px;
+  margin: 15px;
+}
+
+.docs a{
+  margin: 10px;
+  color: grey;
+}
+
+.webinar{
+  float: left;
+  margin-top: 10px;
+}
+
+.carlo{
+  background-color: white;
+}
+
+.marco{
+  background-color: white;
+  border-top: 1px solid grey;
+}
+.webinar a{
+  color: grey;
+}
+
+.digital img{
+  width: 150px;;
+}
+
+.digital{
+float: left;
+}
+
+.digital a{
+  color: black;
+  margin: 10px;
+}
+
+.sign{
+  float: right;
+  margin-top: 30px;
+}
+
+/* prima */
+
+
+
+.prima{
+  margin-top: 120px;
+  background-image:url(img/ocean.jpg);
+}
+
+.rima h1,p{
+  color:white;
+}
+
+.rima h1{
+  font-size: 62px;
+  font-weight: 400;
+}
+
+.panel{
+  margin-right: 30px;
+}
+
+.nera{
+  margin-top: 50px;
+}
+
+.bianco{
+  background-color: white;
+}
+
+/* parte seconda */
+
+.seconda h4{
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.seconda a{
+  margin-left: 45%;
+  color:blue;
+}
+.pino img{
+  margin: 10px;
+}
+
+.seconda{
+  background-color: #f3f5f9;
+}
+
+.rambo{
+  margin-top: 50px;
+}
+
+
+/* terza */
+
+.terza h1,h3{
+  text-align: center;
+  margin-top: 90px;
+}
+
+.scale{
+  border-left:1px solid black;
+  margin-left: 40px;
+  list-style-type: none;
+  margin-top: 70px;
+  font-size: 16px;
+}
+
+.scale li{
+  margin: 15px;
+}
+
+.terza p{
+  color: black;
+}
+
+.team{
+  margin-top: 40px;
+}
+
+.claudio{
+  margin-top: 35px;
+}
+
+.maria{
+  margin-top: 35px;
+}
+
+.terza{
+  margin-bottom: 80px;
+}
+
+/* quarta */
+
+.quarta{
+  background-color: #f3f5f9;
+}
+
+.quarta h1,h3{
+  text-align: center;
+  margin-top: 80px;
+}
+
+.quarta h1{
+  color:#121419;
+  font-weight: 400;
+}
+
+.quarta h3{
+  color:rgba(3,27,78,.7);
+}
+
+.quarta img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 50px;
+}
+
+.quarta p{
+  color: black;
+  text-align: center;
+  margin-top: 30px;
+}
+
+/* quinta */
+
+.quinta h1{
+  text-align: center;
+  color:black;
+}
