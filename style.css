@@ -103,6 +103,7 @@ float: left;
 
 .seconda{
   background-color: #f3f5f9;
+  padding: 10px;
 }
 
 .rambo{
@@ -153,6 +154,7 @@ float: left;
 
 .quarta{
   background-color: #f3f5f9;
+  padding: 80px;
 }
 
 .quarta h1,h3{
@@ -184,10 +186,15 @@ float: left;
 
 /* quinta */
 
+.quinta{
+  margin-bottom: 100px;
+}
+
 .quinta h1{
   text-align: center;
   color:black;
   margin-top: 90px;
+  margin-bottom: 90px;
 }
 
 .quinta p{
@@ -200,5 +207,99 @@ float: left;
 }
 
 .price1{
-  margin-left: : 40px;
+  margin-left: 60px;
+}
+
+.supporti{
+  margin-left: 60px;
+}
+
+.compli{
+  margin-left: 60px;
+}
+
+.icona1{
+  margin-left: 60px;
+}
+
+/* sesta */
+.sesta{
+  background: #031B4E url(https://www.digitalocean.com/assets/media/homepage/data-center-map-20321538.svg);
+  padding: 100px;
+}
+
+.sesta h1{
+  text-align: center;
+  color: white;
+}
+
+.table{
+color:white;
+}
+
+.tabelle{
+  margin-top: 80px;
+}
+
+/* settima */
+
+/* ottava */
+
+.ottava{
+  background-image:url(img/ocean.jpg);
+  padding: 50px;
+}
+
+.ottava h2{
+  text-align: center;
+  color: white;
+}
+
+.ottava button{
+  margin-left: 530px;
+  color: blue;
+}
+/* footer */
+
+footer{
+  background-color: black;
+}
+
+
+footer ul{
+  list-style-type: none;
+  margin-top: 50px;
+}
+
+
+footer a{
+  color:white;
+}
+
+
+footer li{
+  margin: 10px;
+}
+
+.ultimiss{
+  border-bottom: 1px solid white;
+  padding: 80px;
+}
+
+
+/* nona */
+.nona{
+  padding: 30px;
+  background-color: black;
+}
+
+.nona img{
+  width: 100px;
+  float: left;
+}
+
+.nona p{
+  color:white;
+  float: left;
+  margin-top: 60px;
 }
